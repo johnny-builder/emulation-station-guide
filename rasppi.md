@@ -12,7 +12,7 @@ Raspberry Pi's are great! you can do many, *many* things with it, but we chose t
 8. At least a little bit of experience with computers
 
 # Setup Guide
-To start, go to your computer and visit the link below and download the Raspberry Pi Imager for your OS.
+To start, go to your computer and visit this link below and download the Raspberry Pi Imager for your OS:
 [![Imager - Downloads](https://img.shields.io/badge/Imager-Downloads-blue?logo=raspberrypi)](https://www.raspberrypi.com/software/)
 Next, on Operating System, hit Choose OS, Emulation and game OS, hit Recalbox and select the right version of your Raspberry Pi.
 Now, plug in your microSD card and select it in Storage.
